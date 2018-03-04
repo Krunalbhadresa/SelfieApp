@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">116685145507-amu5fcd4lp0g26clsd0d8gj6lnflluir.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://spyapp-49914.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">116685145507</string>
+    <string name="google_api_key" translatable="false">AIzaSyDeZ3fYM0zepPh7_LVATt4oKYUfogYJFtU</string>
+    <string name="google_app_id" translatable="false">1:116685145507:android:239490f6d73f33a9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDeZ3fYM0zepPh7_LVATt4oKYUfogYJFtU</string>
+    <string name="google_storage_bucket" translatable="false">spyapp-49914.appspot.com</string>
+</resources>
